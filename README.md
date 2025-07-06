@@ -64,3 +64,12 @@
 - Merci de suivre les conventions (voir CONTRIBUTING.md et agents.md)
 - Toute contribution sérieuse (code, UI, doc) est la bienvenue
 
+
+## Utilisation rapide
+
+```bash
+./install.sh
+php src/portfolio_manager.php --version
+./remove.sh
+```
+
