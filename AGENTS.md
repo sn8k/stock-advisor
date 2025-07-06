@@ -1,7 +1,7 @@
 # agents.md
 
 **Projet : Virtual Portfolio Advisor & Alert System**  
-**Version : 1.0.1**  
+**Version : 1.0.2**  
 **Date : 2025-07-06**  
 **Auteur : [Ton nom ou pseudo]**
 
@@ -88,6 +88,13 @@ Le système est conçu pour suivre un portefeuille multi-actifs, générer des a
 | Notification Agent   | [ ]         | [x]         |             |
 | UI/Frontend Agent    | [x]         | [x]         | [ ]         |
 | Settings Manager     | [x]         | [x]         | [ ]         |
+
+---
+
+## Règles d'installation
+
+- Toutes les dépendances nécessaires (PHP, MySQL, extensions...) doivent être déclarées dans `install.sh`.
+- Le script d'installation doit se charger de leur installation avant la mise en place du projet.
 
 ---
 

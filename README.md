@@ -1,5 +1,5 @@
 # Virtual Portfolio Advisor & Alert System
-<!-- Version: 0.1.1 - Date: 2025-07-06 -->
+<!-- Version: 0.1.3 - Date: 2025-07-06 -->
 
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
 ![License](https://img.shields.io/github/license/votre-repo/portfolio-advisor)
