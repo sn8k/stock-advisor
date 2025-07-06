@@ -5,3 +5,9 @@
 - Added .gitignore to exclude logs, *.log and vendor directory.
 - Added LICENSE file with non-distribution notice.
 - Mentioned license in README.
+- Added interactive DB check and creation assistant in admin/db_check.php.
+- Installer now initializes DB and data directory. Uninstaller cleans data folder.
+- log_create.sh now sets up data directory. README version bumped to 0.1.2.
+- Installer now installs PHP and MySQL dependencies with debug logging.
+- Updated versions of db_check.php and install.sh.
+- AGENTS.md mis à jour à la version 1.0.2 avec les règles d\x27installation des dépendances.
