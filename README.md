@@ -41,16 +41,17 @@
 ## Installation
 
 1. **Clone du repo**
-git clone https://github.com/votre-repo/portfolio-advisor.git
-cd portfolio-advisor
+  
+   git clone https://github.com/votre-repo/portfolio-advisor.git
+   cd portfolio-advisor
 
 2. **Démarrage local**
-npm install
-npm start
+   npm install
+   npm start
 
 3. **Configuration initiale**
-Ajoutez vos premiers actifs manuellement ou via import CSV
-Définissez vos alertes et préférences dans le menu “Paramètres”
+   Ajoutez vos premiers actifs manuellement ou via import CSV
+   Définissez vos alertes et préférences dans le menu “Paramètres”
 
 **Roadmap prevue**
  V1.0 : Suivi manuel portefeuille, alertes personnalisées, dashboard, notifications browser
