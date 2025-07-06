@@ -1,4 +1,5 @@
 # Virtual Portfolio Advisor & Alert System
+<!-- Version: 0.1.1 - Date: 2025-07-06 -->
 
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
 ![License](https://img.shields.io/github/license/votre-repo/portfolio-advisor)
@@ -72,4 +73,8 @@
 php src/portfolio_manager.php --version
 ./remove.sh
 ```
+
+## Licence
+
+Ce projet est distribué sous la **Virtual Portfolio Advisor License**. Il n'est pas destiné à être redistribué. Reportez-vous au fichier `LICENSE` pour plus de détails.
 
