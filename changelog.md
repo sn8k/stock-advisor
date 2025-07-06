@@ -3,3 +3,5 @@
 - Added initial PHP scripts and installation utilities.
 - Updated AGENTS.md to version 1.0.1 with current date and status.
 - Added .gitignore to exclude logs, *.log and vendor directory.
+- Added LICENSE file with non-distribution notice.
+- Mentioned license in README.
