@@ -11,3 +11,6 @@
 - Installer now installs PHP and MySQL dependencies with debug logging.
 - Updated versions of db_check.php and install.sh.
 - AGENTS.md mis à jour à la version 1.0.2 avec les règles d\x27installation des dépendances.
+- Ajout du script market_data_fetcher.php avec options CLI et placeholder de prix.
+- Mise à jour d\'install.sh et remove.sh pour ce module.
+- Statut du Market Data Fetcher marqué "En cours" et AGENTS.md passé en version 1.0.3.

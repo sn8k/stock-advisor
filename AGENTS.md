@@ -1,7 +1,7 @@
 # agents.md
 
 **Projet : Virtual Portfolio Advisor & Alert System**  
-**Version : 1.0.2**  
+**Version : 1.0.3**
 **Date : 2025-07-06**  
 **Auteur : [Ton nom ou pseudo]**
 
@@ -29,7 +29,7 @@ Le système est conçu pour suivre un portefeuille multi-actifs, générer des a
 | Agent                | Rôle principal                                      | Statut    |
 |----------------------|-----------------------------------------------------|-----------|
 | Portfolio Manager    | Gestion des positions et de l’historique            | [x] En cours |
-| Market Data Fetcher  | Récupération temps réel des prix et historiques     | [ ] À faire |
+| Market Data Fetcher  | Récupération temps réel des prix et historiques     | [x] En cours |
 | Alert Engine         | Génération d’alertes (selon règles customisées)     | [ ] À faire |
 | Recommendation Core  | Conseils d’achats/ventes pour l’allocation cible    | [ ] À faire |
 | Notification Agent   | Envoi de notifications (mail, browser, Telegram…)   | [ ] À faire |
